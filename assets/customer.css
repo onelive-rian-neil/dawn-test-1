@@ -1,3 +1,4 @@
+/*customer file*/
 .customer:not(.account, .order) {
   margin: 6rem auto 9rem;
   max-width: 33.4rem;
